@@ -1,0 +1,160 @@
+{
+    "cricket": [
+        {
+            "question": "India's first win in a World Cup match was against?",
+            "answers": ["Sri Lanka", "West Indies", "East Africa", "England"],
+            "correctAnswer": "West Indies"
+        },
+        {
+            "question": "Which cricketer has scored the most runs at the World Cup?",
+            "answers": [
+                "Sachin Tendulkar",
+                "Mohammad Azharuddin",
+                "Saurav Ganguly",
+                "Rahul Dravid"
+            ],
+            "correctAnswer": "Sachin Tendulkar"
+        },
+        {
+            "question": "Who is the India women's national cricket team, T20I captain in the 2020 World Cup?",
+            "answers": [
+                "Harmanpreet Kaur",
+                "Mithali Raj",
+                "Tania Bhatia",
+                "Harleen Deol"
+            ],
+            "correctAnswer": "Harmanpreet Kaur"
+        },
+        {
+            "question": "Which of these records does Smriti Mandhana hold?",
+            "answers": [
+                "Highest score by an Indian in ODIs",
+                "First to score 1000 T20I runs for India",
+                "Youngest T20I skipper for India",
+                "Fastest T20I ton by an Indian."
+            ],
+            "correctAnswer": "Youngest T20I skipper for India"
+        },
+        {
+            "question": "who is the mentor of t20 world cup for INDIA in 2021",
+            "answers": [
+                "Suresh Raina",
+                "Rahul Dravid",
+                "M.S Dhoni",
+                "Sachin Tendulkar"
+            ],
+            "correctAnswer": "M.S Dhoni"
+        }
+    ],
+    "hockey": [
+        {
+            "question": "Who is the only Indian hockey player to have won an Olympic gold both as a player and as a coach?",
+            "answers": [
+                "Balbir Singh Sr",
+                "Balkishen Singh Grewal",
+                "Dhyanchand",
+                "Ashok Kumar"
+            ],
+            "correctAnswer": "Balkishen Singh Grewal"
+        },
+        {
+            "question": "Which Indian player holds the unbroken record of scoring five goals in an Olympic final?",
+            "answers": [
+                "Balbir Singh Sr.",
+                "Dhyanchand",
+                "Ashok Kumar",
+                "Balkishen Singh Grewal"
+            ],
+            "correctAnswer": "Ashok Kumar"
+        },
+        {
+            "question": "How many times did India face off against arch-rival Pakistan for the gold medal?",
+            "answers": ["2", "4", "3", "7"],
+            "correctAnswer": "3"
+        },
+        {
+            "question": "The limit on numbers of substitutions per game is?",
+            "answers": ["5", "No limit", "7", "9"],
+            "correctAnswer": "No limit"
+        },
+        {
+            "question": " When was All India Women's Hockey Federation was formed?",
+            "answers": ["1947", "1948", "1949", "1939"],
+            "correctAnswer": "1947"
+        }
+    ],
+    "badminton": [
+        {
+            "question": "In which year did Badminton become an Olympic sport?",
+            "answers": ["1989", "2000", "1996", "1992"],
+            "correctAnswer": "1992"
+        },
+        {
+            "question": "Who is the Youngest Badminton Player to represent Indian at Championship?",
+            "answers": [
+                "Saina Nehwal",
+                "Prakash Padukone",
+                "Kidambi Srikanth",
+                "P Gopichand"
+            ],
+            "correctAnswer": "Saina Nehwal"
+        },
+        {
+            "question": "In Which Stadium India Open Grand Prix Gold tournament held?",
+            "answers": [
+                "Rajib Gandhi Indoor Stadium",
+                "Babu Banarsi Das Indoor Stadium",
+                "Sports Authority of India Complex",
+                "None of These"
+            ],
+            "correctAnswer": "Babu Banarsi Das Indoor Stadium"
+        },
+        {
+            "question": " Who was the first Indian badminton Player to hold number one rank in World Rankings?",
+            "answers": [
+                "Prakash Padukone",
+                "Saina Nehwal",
+                "Chetan Anand",
+                "Manu Attri"
+            ],
+            "correctAnswer": "Prakash Padukone"
+        },
+        {
+            "question": "How many feathers should be in a shuttle?",
+            "answers": ["12", "26", "16", "20"],
+            "correctAnswer": "16"
+        }
+    ],
+    "kabaddi": [
+        {
+            "question": "In which Indian state did kabaddi originate?",
+            "answers": ["Tamil Nadu", "Punjab", "Andhra Pradesh", "Haryana"],
+            "correctAnswer": "Tamil Nadu"
+        },
+        {
+            "question": "Kabaddi is the national sport of which country?",
+            "answers": ["India", "Iran", "Bangladesh", "Iraq"],
+            "correctAnswer": "Bangladesh"
+        },
+        {
+            "question": "In which year, Kabaddi was introduced for the first time in the National Games of India?",
+            "answers": ["1938", "1939", "1940", "1941"],
+            "correctAnswer": "1939"
+        },
+        {
+            "question": "Which is the highest governing body of Kabaddi?",
+            "answers": [
+                "International Kabaddi Association",
+                "International Kabaddi Federation",
+                "International Kabaddi Council",
+                "International Kabaddi Committee"
+            ],
+            "correctAnswer": "International Kabaddi Association"
+        },
+        {
+            "question": "How many team members are there on each side of a Kabaddi match?",
+            "answers": ["5", "7", "9", "11"],
+            "correctAnswer": "7"
+        }
+    ]
+}
